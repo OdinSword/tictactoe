@@ -1,2 +1,2 @@
 # tictactoe
-A simple tic tac toe game.
+A simple tic tac toe game for 2 players.
